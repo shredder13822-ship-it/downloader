@@ -10,6 +10,7 @@
 - [get](./get)
 - [index-v1-a1](./index-v1-a1)
 - [vid_480p](./vid_480p)
+- [vid_720p](./vid_720p)
 
 ---
 
